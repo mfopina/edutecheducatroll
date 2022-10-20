@@ -6,6 +6,7 @@ header{
     background-size: 650px;
     margin: 0 0 0 300px;
 }
+
 .caixa{
     position: relative; /* texto no meio*/
     width: 940px; /* tamanho largura da caixa*/
